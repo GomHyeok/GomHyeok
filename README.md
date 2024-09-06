@@ -6,7 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Swift-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Swift-007396?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
   	<img src="https://img.shields.io/badge/C-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
@@ -21,8 +21,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Xcode-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/VScode-43B02A?style=flat&logo=Selenium&logoColor=white" />
+	<img src="https://img.shields.io/badge/Xcode-6DB33F?style=flat&logo=Xcode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -38,7 +37,7 @@
 	<a href="https://yermi.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a> -->
-	<a href="mailto:ddrongy@gmail.com">
+	<a href="mailto:gomhyeok@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 <!-- 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
@@ -54,6 +53,6 @@
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddrongy)](https://solved.ac/ddrongy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wolfchoi09)](https://solved.ac/wolfchoi09)
 </div>
 <br>

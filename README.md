@@ -8,8 +8,8 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Swift-007396?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-  	<img src="https://img.shields.io/badge/C-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-EE4C2C?style=flat&logo=C++&logoColor=white" />
+  	<img src="https://img.shields.io/badge/C-EE4C2C?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />

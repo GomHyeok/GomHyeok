@@ -40,6 +40,10 @@
 	<a href="mailto:gomhyeok@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+	</a>
+	<a href="https://www.instagram.com/gomhyeok/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
 <!-- 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a> -->
